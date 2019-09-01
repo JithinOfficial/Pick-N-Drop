@@ -1,0 +1,213 @@
+Make,Model,Mileage (kmpl),Seating capacity,Car class (personal opinion),Street,Registration no,vehicle num,Registration number,on duty flag,destination
+Chevrolet,Aveo [2006-2009]1.4,11.9,5,Small car,71st Street,KL-07-A-,7252,KL-07-A-7252,0,11
+Chevrolet,Aveo [2006-2009]LS 1.4,11.9,5,Small car,71st Street,KL-07-A-,5078,KL-07-A-5078,0,17
+Chevrolet,Aveo [2006-2009]LS 1.4 Ltd,11.9,5,Small car,71st Street,KL-07-A-,7270,KL-07-A-7270,1,3
+Chevrolet,Aveo [2006-2009]LT 1.6,10.8,5,Small car,71st Street,KL-07-A-,6419,KL-07-A-6419,1,3
+Chevrolet,Aveo [2006-2009]LT 1.6 Opt,10.8,5,Small car,71st St,KL-07-A-,5925,KL-07-A-5925,0,16
+Chevrolet,Aveo [2009-2012]CNG 1.4,11.5,5,Small car,71st St,KL-07-A-,2795,KL-07-A-2795,0,9
+Chevrolet,Aveo [2009-2012]LS 1.4,14.49,5,Small car,Commercial Ave,KL-07-A-,2038,KL-07-A-2038,1,11
+Chevrolet,Aveo [2009-2012]LT 1.4,14.49,5,Small car,Commercial Ave,KL-07-A-,5249,KL-07-A-5249,0,17
+Chevrolet,Aveo [2009-2012]LT 1.4 ABS,14.49,5,Small car,Commercial Ave,KL-07-A-,1103,KL-07-A-1103,1,12
+Chevrolet,Aveo [2009-2012]LT 1.6 ABS,13.1,5,Small car,Commercial Ave,KL-07-A-,9574,KL-07-A-9574,1,13
+Chevrolet,Aveo U-VA [2006-2012]1.2,11.72,5,Small car,Cottage Grove Ave,KL-07-A-,5107,KL-07-A-5107,1,15
+Chevrolet,Aveo U-VA [2006-2012]LS 1.2,15.26,5,Small car,Cottage Grove Ave,KL-07-A-,9216,KL-07-A-9216,1,25
+Chevrolet,Aveo U-VA [2006-2012]LS 1.2 Techno,11.72,5,Small car,Cottage Grove Ave,KL-07-A-,3480,KL-07-A-3480,1,15
+Chevrolet,Aveo U-VA [2006-2012]LT 1.2,15.26,5,Small car,Cottage Grove Ave,KL-07-A-,7601,KL-07-A-7601,1,16
+Chevrolet,Aveo U-VA [2006-2012]LT 1.2 ABS,11.7,5,Small car,Cottage Grove Ave,KL-07-A-,4941,KL-07-A-4941,1,24
+Chevrolet,Aveo U-VA [2006-2012]LT 1.2 ABS &amp; Airbag,11.7,5,Small car,Cottage Grove Ave,KL-07-A-,8497,KL-07-A-8497,0,2
+Chevrolet,BeatLS Diesel,25.44,5,Mini car,Cottage Grove Ave,KL-07-A-,3485,KL-07-A-3485,0,26
+Chevrolet,BeatLS Petrol,18.6,5,Mini car,Cottage Grove Ave,KL-07-A-,7514,KL-07-A-7514,1,15
+Chevrolet,BeatLT Diesel,25.44,5,Mini car,Cottage Grove Ave,KL-07-A-,8606,KL-07-A-8606,0,26
+Chevrolet,BeatLT Petrol,18.6,5,Mini car,Damen Ave,KL-07-A-,4146,KL-07-A-4146,1,25
+Chevrolet,BeatLTZ Diesel,25.44,5,Mini car,Damen Ave,KL-07-A-,4641,KL-07-A-4641,1,3
+Chevrolet,BeatLTZ Petrol,18.6,5,Mini car,Damen Ave,KL-07-A-,4243,KL-07-A-4243,1,12
+Chevrolet,BeatPS Diesel,25.44,5,Mini car,Damen Ave,KL-07-A-,1499,KL-07-A-1499,0,26
+Chevrolet,BeatPS Petrol,18.6,5,Mini car,Damen Ave,KL-07-A-,5122,KL-07-A-5122,1,20
+Chevrolet,Beat [2009-2011]LS Petrol,18.6,5,Mini car,Damen Ave,KL-07-A-,1008,KL-07-A-1008,0,7
+Chevrolet,Beat [2009-2011]LT Opt Petrol,18.6,5,Mini car,Damen Ave,KL-07-A-,8048,KL-07-A-8048,1,13
+Chevrolet,Beat [2009-2011]LT Petrol,18.6,5,Mini car,Damen Ave,KL-07-A-,7415,KL-07-A-7415,1,18
+Chevrolet,Beat [2009-2011]PS Petrol,18.6,5,Mini car,Damen Ave,KL-07-A-,2726,KL-07-A-2726,1,24
+Chevrolet,Beat [2011-2014]LS Diesel,25.44,5,Mini car,Damen Ave,KL-07-A-,6699,KL-07-A-6699,1,23
+Chevrolet,Beat [2011-2014]LS LPG,13.3,5,Mini car,Dr Martin Luther King Jr Dr,KL-07-A-,4846,KL-07-A-4846,1,4
+Chevrolet,Beat [2011-2014]LT Diesel,25.44,5,Mini car,Dr Martin Luther King Jr Dr,KL-07-A-,5025,KL-07-A-5025,0,23
+Chevrolet,Beat [2011-2014]LT LPG,13.3,5,Mini car,Dr Martin Luther King Jr Dr,KL-07-A-,3238,KL-07-A-3238,1,7
+Chevrolet,Beat [2011-2014]LT Opt Diesel,25.44,5,Mini car,Dr Martin Luther King Jr Dr,KL-07-A-,3876,KL-07-A-3876,1,8
+Chevrolet,Beat [2011-2014]PS Diesel,25.44,5,Mini car,Dr Martin Luther King Jr Dr,KL-07-A-,6021,KL-07-A-6021,1,8
+Chevrolet,Beat [2014-2016]LS Diesel,25.44,5,Mini car,Dr Martin Luther King Jr Dr,KL-07-A-,6561,KL-07-A-6561,0,25
+Chevrolet,Beat [2014-2016]LS LPG,13.3,5,Mini car,Dr Martin Luther King Jr Dr,KL-07-A-,5415,KL-07-A-5415,0,14
+Chevrolet,Beat [2014-2016]LS Petrol,18.6,5,Mini car,Exchange Ave,KL-07-A-,2661,KL-07-A-2661,1,23
+Chevrolet,Beat [2014-2016]LT Diesel,25.44,5,Mini car,Exchange Ave,KL-07-A-,2348,KL-07-A-2348,1,14
+Chevrolet,Beat [2014-2016]LT LPG,13.3,5,Mini car,Indiana Ave,KL-07-A-,1117,KL-07-A-1117,0,8
+Chevrolet,Beat [2014-2016]LT Opt Diesel,25.44,5,Mini car,Indiana Ave,KL-07-A-,6018,KL-07-A-6018,1,17
+Chevrolet,Beat [2014-2016]LT Opt Petrol,18.6,5,Mini car,Indiana Ave,KL-07-A-,3207,KL-07-A-3207,0,1
+Chevrolet,Beat [2014-2016]LT Petrol,18.6,5,Mini car,Indiana Ave,KL-07-A-,9057,KL-07-A-9057,0,17
+Chevrolet,Beat [2014-2016]PS Diesel,25.44,5,Mini car,Indiana Ave,KL-07-A-,9245,KL-07-A-9245,0,3
+Chevrolet,Beat [2014-2016]PS Petrol,18.6,5,Mini car,Indianapolis Ave,KL-07-A-,6946,KL-07-A-6946,0,2
+Chevrolet,Captiva [2008-2012]LTZ AWD AT,9.2,7,Medium SUV,Jeffery Blvd,KL-07-A-,9139,KL-07-A-9139,0,1
+Chevrolet,Captiva [2008-2012]LTZ AWD Xtreme,14,7,Medium SUV,Jeffery Blvd,KL-07-A-,8066,KL-07-A-8066,0,17
+Chevrolet,Captiva [2012-2016]LT,14,7,Medium SUV,Jeffery Blvd,KL-07-A-,9938,KL-07-A-9938,0,7
+Chevrolet,Captiva [2012-2016]LTZ AWD 2.2,,7,Medium SUV,Jeffery Blvd,KL-07-A-,4359,KL-07-A-4359,1,17
+Chevrolet,CruzeLT [2016-2017],17.3,5,Compact car,Jeffery Blvd,KL-07-A-,2442,KL-07-A-2442,1,23
+Chevrolet,CruzeLTZ,17.3,5,Compact car,Jeffery Blvd,KL-07-A-,7252,KL-07-A-7252,0,12
+Chevrolet,CruzeLTZ AT,14.81,5,Compact car,Jeffery Ave,KL-07-A-,9837,KL-07-A-9837,1,18
+Chevrolet,Cruze [2009-2012]LT,11.8,5,Compact car,Dr Martin Luther King Jr Dr,KL-07-A-,3682,KL-07-A-3682,1,7
+Chevrolet,Cruze [2009-2012]LTZ,11.8,5,Compact car,Dr Martin Luther King Jr Dr,KL-07-A-,3625,KL-07-A-3625,0,13
+Chevrolet,Cruze [2009-2012]LTZ AT,10.7,5,Compact car,Lake Park Ave,KL-07-A-,1194,KL-07-A-1194,1,25
+Chevrolet,Cruze [2012-2013]LT,17.3,5,Compact car,Michigan Ave,KL-07-A-,7099,KL-07-A-7099,0,24
+Chevrolet,Cruze [2012-2013]LTZ,17.3,5,Compact car,Michigan Ave,KL-07-A-,9776,KL-07-A-9776,1,4
+Chevrolet,Cruze [2012-2013]LTZ AT,17.3,5,Compact car,Michigan Ave,KL-07-A-,6199,KL-07-A-6199,1,21
+Chevrolet,Cruze [2013-2014]LT,17.3,5,Compact car,Michigan Ave,KL-07-A-,7156,KL-07-A-7156,0,3
+Chevrolet,Cruze [2013-2014]LTZ,17.3,5,Compact car,Michigan Ave,KL-07-A-,4081,KL-07-A-4081,0,11
+Chevrolet,Cruze [2013-2014]LTZ AT,,5,Compact car,Michigan Ave,KL-07-A-,2508,KL-07-A-2508,0,26
+Chevrolet,Cruze [2014-2016]LT,17.3,5,Compact car,Michigan Ave,KL-07-A-,4990,KL-07-A-4990,0,6
+Chevrolet,Cruze [2014-2016]LTZ,17.3,5,Compact car,Michigan Ave,KL-07-A-,2615,KL-07-A-2615,1,26
+Chevrolet,Cruze [2014-2016]LTZ AT,14.81,5,Compact car,South Shore Dr,KL-07-A-,4712,KL-07-A-4712,0,18
+Chevrolet,Enjoy1.3 LS 7 STR,18.2,7,Compact MPV,South Shore Dr,KL-07-A-,1376,KL-07-A-1376,0,24
+Chevrolet,Enjoy1.3 LS 8 STR,18.2,8,Compact MPV,South Shore Dr,KL-07-A-,6693,KL-07-A-6693,0,1
+Chevrolet,Enjoy1.3 LT 7 STR,18.2,7,Compact MPV,State St,KL-07-A-,3080,KL-07-A-3080,0,26
+Chevrolet,Enjoy1.3 LT 8 STR,18.2,8,Compact MPV,State St,KL-07-A-,6245,KL-07-A-6245,0,18
+Chevrolet,Enjoy1.3 LTZ 7 STR,18.2,7,Compact MPV,State St,KL-07-A-,7257,KL-07-A-7257,0,4
+Chevrolet,Enjoy1.3 LTZ 8 STR,18.2,8,Compact MPV,State St,KL-07-A-,4733,KL-07-A-4733,1,16
+Chevrolet,Enjoy1.4 LS 7 STR,13.7,7,Compact MPV,State St,KL-07-A-,6893,KL-07-A-6893,0,22
+Chevrolet,Enjoy1.4 LS 8 STR,13.7,8,Compact MPV,State St,KL-07-A-,9617,KL-07-A-9617,0,17
+Chevrolet,Enjoy1.4 LT 7 STR,13.7,7,Compact MPV,State St,KL-07-A-,8547,KL-07-A-8547,0,3
+Chevrolet,Enjoy1.4 LT 8 STR,13.7,8,Compact MPV,State St,KL-07-A-,2460,KL-07-A-2460,0,25
+Chevrolet,Enjoy1.4 LTZ 7 STR,13.7,7,Compact MPV,State St,KL-07-A-,8417,KL-07-A-8417,0,26
+Chevrolet,Enjoy1.4 LTZ 8 STR,13.7,8,Compact MPV,Wentworth Ave,KL-07-A-,3087,KL-07-A-3087,1,22
+Chevrolet,Forester [2004-2007]AWD,9.2,5,Compact SUV,Wentworth Ave,KL-07-A-,1511,KL-07-A-1511,0,14
+Chevrolet,Optra [2003-2005]1.6,10.6,5,Compact car,Wentworth Ave,KL-07-A-,8429,KL-07-A-8429,0,24
+Chevrolet,Optra [2003-2005]LS 1.6,10.6,5,Compact car,Archer Ave,KL-07-A-,4577,KL-07-A-4577,1,6
+Chevrolet,Optra [2003-2005]LS 1.8,10.5,5,Compact car,Archer Ave,KL-07-A-,9224,KL-07-A-9224,0,12
+Chevrolet,Optra [2003-2005]LS AT 1.8,10.5,5,Compact car,Archer Ave,KL-07-A-,2178,KL-07-A-2178,0,22
+Chevrolet,Optra [2003-2005]LT 1.8,9.3,5,Compact car,Archer Ave,KL-07-A-,8868,KL-07-A-8868,1,26
+Chevrolet,Optra [2003-2005]LT AT 1.8,8.1,5,Compact car,Archer Ave,KL-07-A-,8857,KL-07-A-8857,1,12
+Chevrolet,Optra [2005-2007]Elite 1.6,11.2,5,Compact car,Ashland Ave,KL-07-A-,7132,KL-07-A-7132,1,3
+Chevrolet,Optra [2005-2007]LS Elite 1.6,11.2,5,Compact car,Ashland Ave,KL-07-A-,1500,KL-07-A-1500,0,2
+Chevrolet,Optra [2005-2007]LT Royale 1.6,11.2,5,Compact car,Ashland Ave,KL-07-A-,1040,KL-07-A-1040,0,19
+Chevrolet,Optra [2005-2007]Platinum 1.6,10.6,5,Compact car,Ashland Ave,KL-07-A-,1732,KL-07-A-1732,0,24
+Chevrolet,Optra Magnum [2007-2012]LS 1.6,12.9,5,Compact car,Ashland Ave,KL-07-A-,5400,KL-07-A-5400,1,23
+Chevrolet,Optra Magnum [2007-2012]LS 2.0 TCDi,16.52,5,Compact car,Ashland Ave,KL-07-A-,2536,KL-07-A-2536,1,24
+Chevrolet,Optra Magnum [2007-2012]LT 1.6,12.9,5,Compact car,Ashland Ave,KL-07-A-,8712,KL-07-A-8712,0,5
+Chevrolet,Optra Magnum [2007-2012]LT 2.0 TCDi,16.52,5,Compact car,Ashland Ave,KL-07-A-,7480,KL-07-A-7480,1,9
+Chevrolet,Optra Magnum [2007-2012]Max 1.6,11.24,5,Compact car,Ashland Ave,KL-07-A-,9445,KL-07-A-9445,0,8
+Chevrolet,Optra Magnum [2007-2012]MAX 2.0 TCDi,12.8,5,Compact car,Clark St,KL-07-A-,5721,KL-07-A-5721,0,9
+Chevrolet,Optra SRV [2006-2010]1.6,10.8,5,Compact car,Clark St,KL-07-A-,3299,KL-07-A-3299,0,2
+Chevrolet,Optra SRV [2006-2010]1.6 Opt,10.76,5,Compact car,Clark St,KL-07-A-,3574,KL-07-A-3574,1,25
+Chevrolet,Sail1.2 Base,18.2,5,Small car,Clark St,KL-07-A-,4187,KL-07-A-4187,0,24
+Chevrolet,Sail1.2 LS,18.2,5,Small car,Clark St,KL-07-A-,5989,KL-07-A-5989,1,1
+Chevrolet,Sail1.2 LS ABS,18.2,5,Small car,Halsted St,KL-07-A-,4137,KL-07-A-4137,0,18
+Chevrolet,Sail1.2 LT ABS,18.2,5,Small car,Halsted St,KL-07-A-,4848,KL-07-A-4848,1,1
+Chevrolet,Sail1.3 Base,22.1,5,Small car,Halsted St,KL-07-A-,9797,KL-07-A-9797,0,8
+Chevrolet,Sail1.3 LS,22.1,5,Small car,Halsted St,KL-07-A-,5738,KL-07-A-5738,1,24
+Chevrolet,Sail1.3 LS ABS,22.1,5,Small car,Halsted St,KL-07-A-,5363,KL-07-A-5363,0,12
+Chevrolet,Sail1.3 LT ABS,22.1,5,Small car,Halsted St,KL-07-A-,3915,KL-07-A-3915,0,12
+Chevrolet,Sail [2012-2014]1.2 Base,18.2,5,Small car,Halsted St,KL-07-A-,4256,KL-07-A-4256,1,11
+Chevrolet,Sail [2012-2014]1.2 LS,18.2,5,Small car,Halsted St,KL-07-A-,2859,KL-07-A-2859,0,25
+Chevrolet,Sail [2012-2014]1.2 LS ABS,18.2,5,Small car,Halsted St,KL-07-A-,1559,KL-07-A-1559,1,13
+Chevrolet,Sail [2012-2014]1.2 LT ABS,18.2,5,Small car,Vincennes Ave,KL-07-A-,3830,KL-07-A-3830,1,20
+Chevrolet,Sail [2012-2014]1.3 Base,22.1,5,Small car,Vincennes Ave,KL-07-A-,8503,KL-07-A-8503,1,3
+Chevrolet,Sail [2012-2014]1.3 LS,22.1,5,Small car,Vincennes Ave,KL-07-A-,6167,KL-07-A-6167,1,4
+Chevrolet,Sail [2012-2014]1.3 LS ABS,22.1,5,Small car,Vincennes Ave,KL-07-A-,9454,KL-07-A-9454,0,9
+Chevrolet,Sail [2012-2014]1.3 LT ABS,22.1,5,Small car,Vincennes Ave,KL-07-A-,7180,KL-07-A-7180,1,8
+Chevrolet,Sail Hatchback1.2 Base,18.2,5,Small car,Western Ave,KL-07-A-,2877,KL-07-A-2877,0,7
+Chevrolet,Sail Hatchback1.2 LS,18.2,5,Small car,Western Ave,KL-07-A-,3035,KL-07-A-3035,0,13
+Chevrolet,Sail Hatchback1.2 LS ABS,18.2,5,Small car,Western Ave,KL-07-A-,7253,KL-07-A-7253,0,4
+Chevrolet,Sail Hatchback1.2 LT ABS,18.2,5,Small car,Western Ave,KL-07-A-,7951,KL-07-A-7951,0,17
+Chevrolet,Sail Hatchback1.3 Base,22.1,5,Small car,Western Ave,KL-07-A-,8073,KL-07-A-8073,0,10
+Chevrolet,Sail Hatchback1.3 LS,22.1,5,Small car,Western Ave,KL-07-A-,2200,KL-07-A-2200,0,4
+Chevrolet,Sail Hatchback1.3 LS ABS,22.1,5,Small car,Western Ave,KL-07-A-,8957,KL-07-A-8957,0,6
+Chevrolet,Sail Hatchback1.3 LT ABS,22.1,5,Small car,Western Ave,KL-07-A-,5084,KL-07-A-5084,1,5
+Chevrolet,Sail U-VA [2012-2014]1.2 Base,18.2,5,Small car,Western Ave,KL-07-A-,2934,KL-07-A-2934,0,17
+Chevrolet,Sail U-VA [2012-2014]1.2 LS,18.2,5,Small car,Western Ave,KL-07-A-,5934,KL-07-A-5934,0,19
+Chevrolet,Sail U-VA [2012-2014]1.2 LS ABS,18.2,5,Small car,Western Blvd,KL-07-A-,9325,KL-07-A-9325,0,2
+Chevrolet,Sail U-VA [2012-2014]1.2 LT ABS,18.2,5,Small car,Stony Island Ave,KL-07-A-,9259,KL-07-A-9259,1,20
+Chevrolet,Sail U-VA [2012-2014]1.3 Base,22.1,5,Small car,Stony Island Ave,KL-07-A-,7783,KL-07-A-7783,0,17
+Chevrolet,Sail U-VA [2012-2014]1.3 LS,22.1,5,Small car,Stony Island Ave,KL-07-A-,7931,KL-07-A-7931,1,24
+Chevrolet,Sail U-VA [2012-2014]1.3 LS ABS,22.1,5,Small car,Stony Island Ave,KL-07-A-,5552,KL-07-A-5552,0,26
+Chevrolet,Sail U-VA [2012-2014]1.3 LT ABS,22.1,5,Small car,Stony Island Ave,KL-07-A-,4224,KL-07-A-4224,1,7
+Chevrolet,Spark [2007-2012]1,13,5,Mini car,Stony Island Ave,KL-07-A-,1381,KL-07-A-1381,0,18
+Chevrolet,Spark [2007-2012]E 1.0,13.1,5,Mini car,Stony Island Ave,KL-07-A-,6830,KL-07-A-6830,1,4
+Chevrolet,Spark [2007-2012]LS 1.0,13,5,Mini car,92nd St,KL-07-A-,6850,KL-07-A-6850,1,2
+Chevrolet,Spark [2007-2012]LS 1.0 LPG,,5,Mini car,92nd St,KL-07-A-,7731,KL-07-A-7731,0,11
+Chevrolet,Spark [2007-2012]LS 1.0 Muzic,13.1,5,Mini car,99th Street,KL-07-A-,6161,KL-07-A-6161,0,11
+Chevrolet,Spark [2007-2012]LT 1.0,13,5,Mini car,99th Street,KL-07-A-,5620,KL-07-A-5620,1,14
+Chevrolet,Spark [2007-2012]LT 1.0 Airbag,13,5,Mini car,100th St,KL-07-A-,3354,KL-07-A-3354,1,22
+Chevrolet,Spark [2007-2012]LT 1.0 LPG,,5,Mini car,100th St,KL-07-A-,5763,KL-07-A-5763,0,11
+Chevrolet,Spark [2007-2012]LT 1.0 Opt,13.1,5,Mini car,Avenue L,KL-07-A-,4278,KL-07-A-4278,1,6
+Chevrolet,Spark [2007-2012]PS 1.0,13,5,Mini car,Avenue L,KL-07-A-,7947,KL-07-A-7947,1,4
+Chevrolet,Spark [2007-2012]PS 1.0 LPG,,5,Mini car,Beverly Ave,KL-07-A-,7763,KL-07-A-7763,1,20
+Chevrolet,Spark [2012-2013]1.0 BS-III,18,5,Mini car,Longwood Dr,KL-07-A-,4531,KL-07-A-4531,0,11
+Chevrolet,Spark [2012-2013]LS 1.0 BS-III,18,5,Mini car,Harbor Ave,KL-07-A-,3625,KL-07-A-3625,1,12
+Chevrolet,Spark [2012-2013]LS 1.0 LPG,13.15,5,Mini car,Mackinaw Ave,KL-07-A-,6366,KL-07-A-6366,1,10
+Chevrolet,Spark [2012-2013]LT 1.0 BS-III,18,5,Mini car,Yates Blvd,KL-07-A-,7447,KL-07-A-7447,0,1
+Chevrolet,Spark [2012-2013]LT 1.0 LPG,13.15,5,Mini car,63rd Street,KL-07-A-,7225,KL-07-A-7225,0,16
+Chevrolet,Spark [2013-2017]1.0 BS-IV OBDII,18,5,Mini car,63rd Street,KL-07-A-,5238,KL-07-A-5238,1,20
+Chevrolet,Spark [2013-2017]LS 1.0 BS-IV OBDII,18,5,Mini car,63rd St,KL-07-A-,4995,KL-07-A-4995,1,20
+Chevrolet,Spark [2013-2017]LT 1.0 BS-IV OBDII,18,5,Mini car,63rd St,KL-07-A-,8962,KL-07-A-8962,1,5
+Chevrolet,TaveraB1 10-Seater - BS III,11.6,10,Compact SUV,67th St,KL-07-A-,4816,KL-07-A-4816,0,2
+Chevrolet,TaveraB1 7-Seater - BS III,11.6,7,Compact SUV,67th St,KL-07-A-,7251,KL-07-A-7251,1,16
+Chevrolet,TaveraB2 8-Seater - BS III,11.6,8,Compact SUV,67th St,KL-07-A-,4069,KL-07-A-4069,1,21
+Chevrolet,TaveraBase 10 STR,13,10,Compact SUV,75th Street,KL-07-A-,4455,KL-07-A-4455,1,20
+Chevrolet,TaveraElite LS - B3 10-Seater - BS III,11.6,10,Compact SUV,75th St,KL-07-A-,7224,KL-07-A-7224,1,25
+Chevrolet,TaveraElite LS - B3 7-Seater - BS III,11.6,7,Compact SUV,75th St,KL-07-A-,2553,KL-07-A-2553,1,20
+Chevrolet,TaveraElite LT - L1 7-Seater - BS III,11.6,7,Compact SUV,75th St,KL-07-A-,2161,KL-07-A-2161,0,8
+Chevrolet,TaveraElite LT - L1 9-Seater - BS III,11.6,9,Compact SUV,76th Street,KL-07-A-,2821,KL-07-A-2821,1,25
+Chevrolet,TaveraElite LT - L2 - BS III,11.6,8,Compact SUV,76th Street,KL-07-A-,4293,KL-07-A-4293,0,10
+Chevrolet,TaveraElite SS - D1 - BS III,11.6,8,Compact SUV,76th St,KL-07-A-,9746,KL-07-A-9746,1,16
+Chevrolet,TaveraLS 10 STR,13,10,Compact SUV,76th St,KL-07-A-,3457,KL-07-A-3457,0,12
+Chevrolet,TaveraLS 7 STR,13,7,Compact SUV,76th St,KL-07-A-,6952,KL-07-A-6952,0,13
+Chevrolet,TaveraLS 7(C) STR,13,7,Compact SUV,79th Street,KL-07-A-,8344,KL-07-A-8344,0,17
+Chevrolet,TaveraLS 9 STR,13,9,Compact SUV,79th Street,KL-07-A-,9405,KL-07-A-9405,0,19
+Chevrolet,TaveraLT 9 STR,13,9,Compact SUV,79th Street,KL-07-A-,5758,KL-07-A-5758,1,9
+Chevrolet,TaveraMax 10 STR,13,10,Compact SUV,79th Street,KL-07-A-,5176,KL-07-A-5176,0,2
+Chevrolet,TaveraNeo 3 LS- 10 STR BS-III,13.7,10,Compact SUV,79th St,KL-07-A-,4052,KL-07-A-4052,1,15
+Chevrolet,TaveraNeo 3 LS- 10 STR BS-IV,13.7,10,Compact SUV,79th St,KL-07-A-,9971,KL-07-A-9971,0,17
+Chevrolet,TaveraNeo 3 LS- 7 STR BS-III,13.7,7,Compact SUV,79th St,KL-07-A-,7214,KL-07-A-7214,1,17
+Chevrolet,TaveraNeo 3 LS- 7 STR BS-IV,13.7,7,Compact SUV,79th St,KL-07-A-,5976,KL-07-A-5976,0,19
+Chevrolet,TaveraNeo 3 LS- 7(C) STR BS-III,13.7,7,Compact SUV,83rd Street,KL-07-A-,4501,KL-07-A-4501,1,8
+Chevrolet,TaveraNeo 3 LS- 7(C) STR BS-IV,13.7,7,Compact SUV,83rdStreet,KL-07-A-,4863,KL-07-A-4863,0,12
+Chevrolet,TaveraNeo 3 LS-9 STR-BSIII,13.7,9,Compact SUV,83rd St,KL-07-A-,3815,KL-07-A-3815,0,24
+Chevrolet,TaveraNeo 3 LT- 7(C) STR BS-III,13.7,7,Compact SUV,83rd Street,KL-07-A-,8575,KL-07-A-8575,1,14
+Chevrolet,TaveraNeo 3 LT- 7(C) STR BS-IV,13.7,7,Compact SUV,83rd Street,KL-07-A-,9501,KL-07-A-9501,0,5
+Chevrolet,TaveraNeo 3 LT- 8 STR BS-III,13.7,8,Compact SUV,83rd Street,KL-07-A-,6578,KL-07-A-6578,1,25
+Chevrolet,TaveraNeo 3 LT- 8 STR BS-IV,13.7,8,Compact SUV,83rd Street,KL-07-A-,1265,KL-07-A-1265,1,12
+Chevrolet,TaveraNeo 3 LT- 9 STR BS-III,13.7,9,Compact SUV,83rd St,KL-07-A-,4014,KL-07-A-4014,1,10
+Chevrolet,TaveraNeo 3 LT- 9 STR BS-IV,13.7,9,Compact SUV,87th Street,KL-07-A-,1182,KL-07-A-1182,0,16
+Chevrolet,TaveraNeo 3 Max -10 STR BS-III,13.7,10,Compact SUV,87th Street,KL-07-A-,8936,KL-07-A-8936,1,26
+Chevrolet,TaveraNeo 3 Max -10 STR BS-IV,13.7,10,Compact SUV,87th Street,KL-07-A-,2205,KL-07-A-2205,0,25
+Chevrolet,TaveraNeo 3 Max -7 STR BS-III,13.7,7,Compact SUV,87th Street,KL-07-A-,8942,KL-07-A-8942,1,9
+Chevrolet,TaveraNeo 3 Max -7 STR BS-IV,13.7,7,Compact SUV,87th Street,KL-07-A-,2379,KL-07-A-2379,1,12
+Chevrolet,TaveraNeo 3 Max -9 STR BS-III,13.7,9,Compact SUV,87th Street,KL-07-A-,8214,KL-07-A-8214,1,5
+Chevrolet,TaveraNeo 3-10 STR BS-III,13.7,10,Compact SUV,87th Street,KL-07-A-,4262,KL-07-A-4262,1,26
+Chevrolet,TaveraNeo 3-10 STR BS-IV,13.7,10,Compact SUV,87th Street,KL-07-A-,9244,KL-07-A-9244,1,8
+Chevrolet,TaveraNeo 3-7 STR BS-III,13.7,7,Compact SUV,87th Street,KL-07-A-,6873,KL-07-A-6873,1,18
+Chevrolet,TaveraNeo 3-9 STR BS III,13.7,9,Compact SUV,95th Street,KL-07-A-,4700,KL-07-A-4700,1,23
+Chevrolet,TaveraNeo LS - B3 7-Seater - BS III,11.6,7,Compact SUV,95th Street,KL-07-A-,1377,KL-07-A-1377,1,13
+Chevrolet,TaveraNeo LS B3 10-Str BS-III,11.64,10,Compact SUV,95th Street,KL-07-A-,7775,KL-07-A-7775,0,22
+Chevrolet,TaveraNeo LS B4 7-Captain BS-III,11.6,7,Compact SUV,95th Street,KL-07-A-,4849,KL-07-A-4849,1,16
+Chevrolet,TaveraNeo LS B4 7-Str BS-III,11.64,7,Compact SUV,95th Street,KL-07-A-,3912,KL-07-A-3912,1,15
+Chevrolet,TaveraNeo LT L 7-Str BS-III,11.64,7,Compact SUV,95th Street,KL-07-A-,3372,KL-07-A-3372,0,9
+Chevrolet,TaveraNeo LT L 9-Str BS-III,11.64,9,Compact SUV,95th Street,KL-07-A-,9868,KL-07-A-9868,1,19
+Chevrolet,TaveraNeo SS D1 7-Str BS-III,11.64,7,Compact SUV,95th Street,KL-07-A-,5371,KL-07-A-5371,0,25
+Chevrolet,TaveraNeo SS D1 8-Str BS-III,11.64,8,Compact SUV,95th Street,KL-07-A-,2725,KL-07-A-2725,0,26
+Chevrolet,TaveraNY B1 10-Seater - BS II,11.6,10,Compact SUV,95th Street,KL-07-A-,1211,KL-07-A-1211,0,8
+Chevrolet,TaveraNY B1 10-Str BS-III,11.64,10,Compact SUV,103rd Street,KL-07-A-,1368,KL-07-A-1368,0,13
+Chevrolet,TaveraNY B1 7-Seater - BS II,11.6,7,Compact SUV,103rd Street,KL-07-A-,5700,KL-07-A-5700,0,1
+Chevrolet,TaveraNY B1 7-Str BS-III,11.64,7,Compact SUV,103rd St,KL-07-A-,8376,KL-07-A-8376,0,12
+Chevrolet,TaveraNY B2 10-Seater - BS II,11.6,10,Compact SUV,103rd St,KL-07-A-,6968,KL-07-A-6968,0,6
+Chevrolet,TaveraNY B2 10-Str BS-III,11.64,10,Compact SUV,Chicago Ave,KL-07-A-,8723,KL-07-A-8723,0,18
+Chevrolet,TaveraNY B2 7-Seater - BS II,11.6,7,Compact SUV,Garfield Blvd,KL-07-A-,6553,KL-07-A-6553,0,24
+Chevrolet,TaveraNY B2 7-Str BS-III,11.64,7,Compact SUV,Garfield Blvd,KL-07-A-,7306,KL-07-A-7306,0,14
+Chevrolet,TaveraNY Elite LS - B3 10-Seater - BS II,11.6,10,Compact SUV,Garfield Blvd,KL-07-A-,2064,KL-07-A-2064,1,2
+Chevrolet,TaveraNY Elite LS - B3 10-Seater - BS III,11.6,10,Compact SUV,Garfield Blvd,KL-07-A-,6208,KL-07-A-6208,0,12
+Chevrolet,TaveraNY Elite LS - B3 7-Seater - BS II,11.6,7,Compact SUV,Loomis St,KL-07-A-,3850,KL-07-A-3850,0,1
+Chevrolet,TaveraNY Elite LS - B3 7-Seater - BS III,11.6,7,Compact SUV,Loomis St,KL-07-A-,9326,KL-07-A-9326,1,26
+Chevrolet,TaveraNY Elite LT - L1 7-Seater - BS II,11.6,7,Compact SUV,Loomis St,KL-07-A-,7531,KL-07-A-7531,0,6
+Chevrolet,TaveraNY Elite LT - L1 7-Seater - BS III,11.6,7,Compact SUV,Loomis St,KL-07-A-,6341,KL-07-A-6341,1,17
+Chevrolet,TaveraNY Elite LT - L1 9-Seater - BS II,11.6,9,Compact SUV,Loomis St,KL-07-A-,5312,KL-07-A-5312,0,19
+Chevrolet,TaveraNY Elite LT - L1 9-Seater - BS III,11.6,9,Compact SUV,Loomis St,KL-07-A-,9516,KL-07-A-9516,1,3
+Chevrolet,TaveraNY Elite LT - L2 - BS II,11.6,8,Compact SUV,Loomis St,KL-07-A-,4711,KL-07-A-4711,0,24
+Chevrolet,TaveraNY Elite LT - L2 - BS III,11.6,8,Compact SUV,Loomis St,KL-07-A-,9902,KL-07-A-9902,0,9
+Chevrolet,TaveraNY Elite SS - D1 - BS II,11.6,8,Compact SUV,Racine Ave,KL-07-A-,6227,KL-07-A-6227,1,25
+Chevrolet,TaveraNY Elite SS - D1 - BS III,11.6,8,Compact SUV,Racine Ave,KL-07-A-,9113,KL-07-A-9113,1,16
+Chevrolet,TrailblazerLTZ AT,11.45,7,Large SUV,Racine Ave,KL-07-A-,7835,KL-07-A-7835,1,15
